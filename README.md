@@ -1,6 +1,5 @@
 ### Hi there, I am Ed Cynth3tik! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 
-[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/cynth3tik)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/cynth3tik)
 
 I’m a jack of all langs, "battle-tested" Full-Stack __Software Engineer__ and **Solution Architect**. I've worked in everything from billing systems, to building a comprehensive Telehealth platform from scratch, to completely revolutionzing how companys work with automations and data warehousing with Business Intelligence.

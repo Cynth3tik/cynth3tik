@@ -43,7 +43,4 @@ width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/de
 
 You can find a long feed at [cynth3tik/awesome](https://github.com/cynth3tik/awesome) in an easy to read format of all the projects I've starred in my adventures on github! 
 
-Do you want your own feed? Try my [github action](https://github.com/cynth3tik/listerize) to generate it!
-
-
 Catch ya in the codeverse ;) 
